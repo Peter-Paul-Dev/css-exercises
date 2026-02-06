@@ -33,10 +33,11 @@ body {
   box-sizing: border-box;
   height: auto;
   display: flex;
-  height: 850px;
+  height: 1000px;
   width: 350px;
   flex-shrink: 0;
   font-size: 24px;
+  padding: 16px;
 }
 
 li {
@@ -67,4 +68,5 @@ li {
   flex-flow: row wrap;
   gap: 16px;
   margin: 24px;
+  padding: 48px;
 }
